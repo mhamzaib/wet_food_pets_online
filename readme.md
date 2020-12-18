@@ -5,3 +5,5 @@
 ### I will be using this readme as a log for what I achieved on each day worked for this project
 
 *16-12-2020* Created the Project and Imported CSV into repo
+
+*18-12-2020* Not a lot done, was casually exploring the dataset. Next up: explore dataset further and find a trend
